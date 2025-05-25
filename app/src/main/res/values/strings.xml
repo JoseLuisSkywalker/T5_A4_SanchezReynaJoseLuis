@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">T5_A4_SanchezReynaJoseLuis</string>
+
+    <string name="opciones">Decimal - Binario - Octal - Hexadecimal</string>
+
+    <string name="mensaje_caja">Ingresa número en decimal</string>
+
+    <string name="titulo">Conversor</string>
+
+    <string name="rbtn_Binario">Binario</string>
+    <string name="rbtn_Octal">Octal</string>
+    <string name="rbtn_Hexadecimal">Hexadecimal</string>
+
+    <string name="resultado_binario">Resultado en binario</string>
+    <string name="resultado_octal">Resultado en octal</string>
+    <string name="resultado_hexadecimal">Resultado en hexadecimal</string>
+
+    <string name="btn_convertir">CONVERTIR</string>
+
+
 </resources>
